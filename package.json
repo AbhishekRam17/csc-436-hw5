@@ -27,7 +27,7 @@
     "core-js": "^2.6.10",
     "firebase": "^7.3.0",
     "lodash": "4.17.15",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "redux": "4.0.4",
     "reflect-metadata": "0.1.13",
     "reselect": "4.0.0",
